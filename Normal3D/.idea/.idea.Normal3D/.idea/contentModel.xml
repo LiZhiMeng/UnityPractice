@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\JiangXInBin\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JiangXInBin\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Normal3D.-984711581.00" t="ExcludeRecursive" />
+    <e p="E:\unityPractice\Normal3D" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="01CarDrive" t="Include">
+          <e p="CarDrive_BtnControl.cs" t="Include" />
+          <e p="CarDrive_Car.shader" t="Include" />
+          <e p="GameManager_CarDrive.cs" t="Include" />
+        </e>
+        <e p="02FPS" t="Include">
+          <e p="FPSManager.cs" t="Include" />
+        </e>
+        <e p="03CatLike" t="Include">
+          <e p="2.2.1Clock" t="Include">
+            <e p="ClockManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="FPSCamera.cs" t="Include" />
+        <e p="Glass" t="Include">
+          <e p="Glass.shader" t="Include" />
+          <e p="Shader" t="Include">
+            <e p="MatcapGlass.shader" t="Include" />
+          </e>
+          <e p="Shadows" t="Include">
+            <e p="Shadow.cs" t="Include" />
+            <e p="Shadow.shader" t="Include" />
+          </e>
+        </e>
+        <e p="MainManager.cs" t="Include" />
+      </e>
+      <e p="Normal3D.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
