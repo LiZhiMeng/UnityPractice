@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene/b_CarDrive.unity
+- path: Assets/Scene/e_GraphicLine.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
