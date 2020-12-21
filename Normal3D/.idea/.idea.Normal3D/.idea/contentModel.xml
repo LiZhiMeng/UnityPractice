@@ -25,6 +25,9 @@
           <e p="Graph_e.cs" t="Include" />
           <e p="Point Surface.shader" t="Include" />
         </e>
+        <e p="f_MathGraphic" t="Include">
+          <e p="FunctionLibrary.cs" t="Include" />
+        </e>
         <e p="MainManager.cs" t="Include" />
         <e p="Other" t="Include">
           <e p="Editor" t="Include">
